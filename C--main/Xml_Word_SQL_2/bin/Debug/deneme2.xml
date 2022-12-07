@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personeller>
+  <Personel Ad="Ahmet">
+    <Soyad>Arslan</Soyad>
+    <Maas>6000</Maas>
+  </Personel>
+  <Personel Ad="Mehmet">
+    <Soyad>Maral</Soyad>
+    <Maas>6450</Maas>
+  </Personel>
+</personeller>

@@ -1,0 +1,20 @@
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\bin\Debug\Hafta5.exe
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\bin\Debug\Hafta5.pdb
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.Form1.resources
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.Properties.Resources.resources
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.csproj.GenerateResource.cache
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.exe
+C:\Users\90542\Desktop\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.pdb
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\bin\Debug\Hafta5.exe.config
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\bin\Debug\Hafta5.exe
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\bin\Debug\Hafta5.pdb
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.csproj.AssemblyReference.cache
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.csproj.SuggestedBindingRedirects.cache
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.Form1.resources
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.Properties.Resources.resources
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.csproj.GenerateResource.cache
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.csproj.CoreCompileInputs.cache
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.exe
+D:\21-22 Güz Dönemi\.NET C#\C#_Hafta5\Proje\Hafta5\obj\Debug\Hafta5.pdb

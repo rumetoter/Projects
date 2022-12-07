@@ -1,0 +1,11 @@
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\DEU 21-22 Bahar Dönemi\C#_1_İsmail_Hoca\Hafta 5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

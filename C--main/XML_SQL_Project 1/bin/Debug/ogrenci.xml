@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ogrenciler>
+  <ogrenci>
+    <Ad>Doğukan</Ad>
+    <Soyad>TEKİN</Soyad>
+    <Ders_Adı>C#</Ders_Adı>
+  </ogrenci>
+  <ogrenci>
+    <Ad>Umut</Ad>
+    <Soyad>TOKSOY</Soyad>
+    <Ders_Adı>Delphi</Ders_Adı>
+  </ogrenci>
+  <ogrenci>
+    <Ad>Haktan</Ad>
+    <Soyad>Yücesoy</Soyad>
+    <Ders_Adı>Delphi</Ders_Adı>
+  </ogrenci>
+  <ogrenci Numara="1">
+    <Ad>Doğukan</Ad>
+    <Soyad>TEKİN</Soyad>
+    <Ders_Adı>C#</Ders_Adı>
+  </ogrenci>
+  <ogrenci Numara="2">
+    <Ad>Umut</Ad>
+    <Soyad>TOKSOY</Soyad>
+    <Ders_Adı>Delphi</Ders_Adı>
+  </ogrenci>
+  <ogrenci Numara="3">
+    <Ad>Haktan</Ad>
+    <Soyad>Yücesoy</Soyad>
+    <Ders_Adı>Delphi</Ders_Adı>
+  </ogrenci>
+</ogrenciler>

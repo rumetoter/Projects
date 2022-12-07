@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OdevVB", "OdevVB.vbproj", "{7BA06702-2034-4F0C-BECA-1FD4C5975F9F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ortHesapla_DLL", "ortHesapla_DLL\ortHesapla_DLL.vbproj", "{75604150-705C-4C2B-95CD-B3CF58C83D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA06702-2034-4F0C-BECA-1FD4C5975F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA06702-2034-4F0C-BECA-1FD4C5975F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA06702-2034-4F0C-BECA-1FD4C5975F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA06702-2034-4F0C-BECA-1FD4C5975F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75604150-705C-4C2B-95CD-B3CF58C83D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75604150-705C-4C2B-95CD-B3CF58C83D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75604150-705C-4C2B-95CD-B3CF58C83D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75604150-705C-4C2B-95CD-B3CF58C83D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB0A897E-ADE7-4D7E-A1D4-223AB5DED8D6}
+	EndGlobalSection
+EndGlobal

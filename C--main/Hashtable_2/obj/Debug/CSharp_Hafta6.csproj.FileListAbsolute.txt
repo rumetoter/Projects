@@ -1,0 +1,11 @@
+E:\C# Visual Studio\CSharp_Hafta6\bin\Debug\CSharp_Hafta6.exe.config
+E:\C# Visual Studio\CSharp_Hafta6\bin\Debug\CSharp_Hafta6.exe
+E:\C# Visual Studio\CSharp_Hafta6\bin\Debug\CSharp_Hafta6.pdb
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.csproj.AssemblyReference.cache
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.csproj.SuggestedBindingRedirects.cache
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.Form1.resources
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.Properties.Resources.resources
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.csproj.GenerateResource.cache
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.exe
+E:\C# Visual Studio\CSharp_Hafta6\obj\Debug\CSharp_Hafta6.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ogrenciler>
+  <ogren kimlik="Kimlik">
+    <tc>TCNo</tc>
+    <ad>Ad</ad>
+    <soyad>Soyad</soyad>
+    <adres>Adres</adres>
+    <dersad>DersAdi</dersad>
+    <vize>Vize</vize>
+    <final>Final</final>
+    <sonuc>Sonuc</sonuc>
+  </ogren>
+  <ogren kimlik="2020707046">
+    <tc>24547123008</tc>
+    <ad>Doğukan</ad>
+    <soyad>TEKİN</soyad>
+    <adres>Buca</adres>
+    <dersad>C#</dersad>
+    <vize>100</vize>
+    <final>100</final>
+    <sonuc>AA</sonuc>
+  </ogren>
+</ogrenciler>

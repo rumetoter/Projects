@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personeller>
+  <Çalışan Ad="Doğukan">
+    <Soyad>TEKİN</Soyad>
+    <DoğumYeri>Ordu</DoğumYeri>
+    <DoğumTarihi>Temmuz</DoğumTarihi>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Adres>buca</Adres>
+  </Çalışan>
+</personeller>

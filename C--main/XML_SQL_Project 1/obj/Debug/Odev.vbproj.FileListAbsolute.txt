@@ -1,0 +1,26 @@
+E:\Görsel Programlama 3\Hafta 1\Odev\bin\Debug\Odev.exe.config
+E:\Görsel Programlama 3\Hafta 1\Odev\bin\Debug\Odev.exe
+E:\Görsel Programlama 3\Hafta 1\Odev\bin\Debug\Odev.pdb
+E:\Görsel Programlama 3\Hafta 1\Odev\bin\Debug\Odev.xml
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.vbproj.AssemblyReference.cache
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.vbproj.SuggestedBindingRedirects.cache
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.Form1.resources
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.Resources.resources
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.vbproj.GenerateResource.cache
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.vbproj.CoreCompileInputs.cache
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.exe
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.xml
+E:\Görsel Programlama 3\Hafta 1\Odev\obj\Debug\Odev.pdb
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\bin\Debug\Odev.exe.config
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\bin\Debug\Odev.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\bin\Debug\Odev.pdb
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\bin\Debug\Odev.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.vbproj.AssemblyReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.vbproj.SuggestedBindingRedirects.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.Form1.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.Resources.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.vbproj.GenerateResource.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.vbproj.CoreCompileInputs.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 1\OdevVisualBasic\obj\Debug\Odev.pdb

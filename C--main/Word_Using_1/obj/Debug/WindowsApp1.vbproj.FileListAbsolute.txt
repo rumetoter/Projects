@@ -1,0 +1,14 @@
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 4\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,10 @@
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\bin\Debug\ortHesapla_DLL.dll
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\bin\Debug\ortHesapla_DLL.pdb
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\bin\Debug\ortHesapla_DLL.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\obj\Debug\ortHesapla_DLL.vbproj.AssemblyReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\obj\Debug\ortHesapla_DLL.Resources.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\obj\Debug\ortHesapla_DLL.vbproj.GenerateResource.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\obj\Debug\ortHesapla_DLL.vbproj.CoreCompileInputs.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\obj\Debug\ortHesapla_DLL.dll
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\obj\Debug\ortHesapla_DLL.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 2\OdevVB\ortHesapla_DLL\obj\Debug\ortHesapla_DLL.pdb

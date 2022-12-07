@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b14b411-3d92-4f59-a18f-cdcab9f23188": {
+      "ProjectGuid": "7b14b411-3d92-4f59-a18f-cdcab9f23188",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 0
+    },
+    "d69a6f55-38dd-43dd-8b26-b325e4e44f5c": {
+      "ProjectGuid": "d69a6f55-38dd-43dd-8b26-b325e4e44f5c",
+      "DisplayName": "basari",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

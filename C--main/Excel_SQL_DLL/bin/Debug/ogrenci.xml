@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ogrenciler>
+  <Öğrenci TC="12345678904">
+    <OkulNo>12345678904</OkulNo>
+    <Ad>Umut</Ad>
+    <Soyad>TOKSOY</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>C#</Ders_Adi>
+    <Vize_1>60</Vize_1>
+    <Vize_2>60</Vize_2>
+    <Final>80</Final>
+    <Ortalama>72</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="24547123008">
+    <OkulNo>24547123008</OkulNo>
+    <Ad>Doğukan</Ad>
+    <Soyad>TEKİN</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>Visual Basic</Ders_Adi>
+    <Vize_1>80</Vize_1>
+    <Vize_2>80</Vize_2>
+    <Final>90</Final>
+    <Ortalama>86</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="12312312312">
+    <OkulNo>12312312312</OkulNo>
+    <Ad>abc</Ad>
+    <Soyad>def</Soyad>
+    <Cinsiyet>kadın</Cinsiyet>
+    <Milliyet>yabancı</Milliyet>
+    <Ders_Adi>visualbasic</Ders_Adi>
+    <Vize_1>100</Vize_1>
+    <Vize_2>100</Vize_2>
+    <Final>33</Final>
+    <Ortalama>59,8</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="12345678904">
+    <OkulNo>12345678904</OkulNo>
+    <Ad>Umut</Ad>
+    <Soyad>TOKSOY</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>C#</Ders_Adi>
+    <Vize_1>60</Vize_1>
+    <Vize_2>60</Vize_2>
+    <Final>80</Final>
+    <Ortalama>72</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="24547123008">
+    <OkulNo>24547123008</OkulNo>
+    <Ad>Doğukan</Ad>
+    <Soyad>TEKİN</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>Visual Basic</Ders_Adi>
+    <Vize_1>80</Vize_1>
+    <Vize_2>80</Vize_2>
+    <Final>90</Final>
+    <Ortalama>86</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="78978978987">
+    <OkulNo>78978978987</OkulNo>
+    <Ad>Umut</Ad>
+    <Soyad>TOKSOY</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>C#</Ders_Adi>
+    <Vize_1>60</Vize_1>
+    <Vize_2>60</Vize_2>
+    <Final>80</Final>
+    <Ortalama>72</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="12312312312">
+    <OkulNo>12312312312</OkulNo>
+    <Ad>abc</Ad>
+    <Soyad>def</Soyad>
+    <Cinsiyet>kadın</Cinsiyet>
+    <Milliyet>yabancı</Milliyet>
+    <Ders_Adi>visualbasic</Ders_Adi>
+    <Vize_1>100</Vize_1>
+    <Vize_2>100</Vize_2>
+    <Final>33</Final>
+    <Ortalama>59,8</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="12345678904">
+    <OkulNo>12345678904</OkulNo>
+    <Ad>Umut</Ad>
+    <Soyad>TOKSOY</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>C#</Ders_Adi>
+    <Vize_1>60</Vize_1>
+    <Vize_2>60</Vize_2>
+    <Final>80</Final>
+    <Ortalama>72</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="24547123008">
+    <OkulNo>24547123008</OkulNo>
+    <Ad>Doğukan</Ad>
+    <Soyad>TEKİN</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>Visual Basic</Ders_Adi>
+    <Vize_1>80</Vize_1>
+    <Vize_2>80</Vize_2>
+    <Final>90</Final>
+    <Ortalama>86</Ortalama>
+  </Öğrenci>
+  <Öğrenci TC="78978978987">
+    <OkulNo>78978978987</OkulNo>
+    <Ad>Umut</Ad>
+    <Soyad>TOKSOY</Soyad>
+    <Cinsiyet>Erkek</Cinsiyet>
+    <Milliyet>Türk</Milliyet>
+    <Ders_Adi>C#</Ders_Adi>
+    <Vize_1>60</Vize_1>
+    <Vize_2>60</Vize_2>
+    <Final>80</Final>
+    <Ortalama>72</Ortalama>
+  </Öğrenci>
+</ogrenciler>

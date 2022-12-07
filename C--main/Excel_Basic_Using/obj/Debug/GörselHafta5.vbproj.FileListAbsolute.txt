@@ -1,0 +1,14 @@
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\bin\Debug\GörselHafta5.exe.config
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\bin\Debug\GörselHafta5.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\bin\Debug\GörselHafta5.pdb
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\bin\Debug\GörselHafta5.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.vbproj.AssemblyReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.vbproj.SuggestedBindingRedirects.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.vbproj.ResolveComReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.Form1.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.Resources.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.vbproj.GenerateResource.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.vbproj.CoreCompileInputs.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 5\GörselHafta5\obj\Debug\GörselHafta5.pdb

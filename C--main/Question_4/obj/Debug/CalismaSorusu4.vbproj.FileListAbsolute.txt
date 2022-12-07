@@ -1,0 +1,12 @@
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\bin\Debug\CalismaSorusu4.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\bin\Debug\CalismaSorusu4.pdb
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\bin\Debug\CalismaSorusu4.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.vbproj.AssemblyReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.vbproj.ResolveComReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.Form1.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.Resources.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.vbproj.GenerateResource.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.vbproj.CoreCompileInputs.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSorusu4\obj\Debug\CalismaSorusu4.pdb

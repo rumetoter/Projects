@@ -1,0 +1,6 @@
+E:\C# Visual Studio\C# Vize Sonrası\Çalışma Soruları 1\basari\bin\Debug\basari.dll
+E:\C# Visual Studio\C# Vize Sonrası\Çalışma Soruları 1\basari\bin\Debug\basari.pdb
+E:\C# Visual Studio\C# Vize Sonrası\Çalışma Soruları 1\basari\obj\Debug\basari.csproj.AssemblyReference.cache
+E:\C# Visual Studio\C# Vize Sonrası\Çalışma Soruları 1\basari\obj\Debug\basari.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\C# Vize Sonrası\Çalışma Soruları 1\basari\obj\Debug\basari.dll
+E:\C# Visual Studio\C# Vize Sonrası\Çalışma Soruları 1\basari\obj\Debug\basari.pdb

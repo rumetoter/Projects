@@ -1,0 +1,8 @@
+Veritabanı bağla
+TextBoxlara veri yansıt
+Veriler üzerinde gezinti yap (İlk, Sonraki, Önceki, Son)
+TextBoxa yazılan veriyi arat
+ÖnBellek İşlemleri(Ekle, Vazgeç, Bitir, Sil)
+VeriTabanı İşlemleri (Ekle, Güncelle, Sil)
+Form2'yi Aç
+Birden Çok Tabloyu Birbirine Bağla

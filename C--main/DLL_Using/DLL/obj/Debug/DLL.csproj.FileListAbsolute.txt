@@ -1,0 +1,6 @@
+E:\C# Visual Studio\C# Vize Sonrası\Hafta 4 - DLL\DLL\bin\Debug\DLL.dll
+E:\C# Visual Studio\C# Vize Sonrası\Hafta 4 - DLL\DLL\bin\Debug\DLL.pdb
+E:\C# Visual Studio\C# Vize Sonrası\Hafta 4 - DLL\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+E:\C# Visual Studio\C# Vize Sonrası\Hafta 4 - DLL\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\C# Vize Sonrası\Hafta 4 - DLL\DLL\obj\Debug\DLL.dll
+E:\C# Visual Studio\C# Vize Sonrası\Hafta 4 - DLL\DLL\obj\Debug\DLL.pdb

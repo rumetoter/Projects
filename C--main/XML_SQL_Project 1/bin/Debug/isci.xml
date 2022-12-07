@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<isciler>
+<isci sicil="2101">
+<ad>ali</ad>
+<görev>müdür</görev>
+<ucret>5000</ucret>
+</isci>
+<isci sicil="2101">
+<ad>mahmut</ad>
+<görev>satış</görev>
+<ucret>3000</ucret>
+</isci>
+<isci sicil="2101">
+<ad>kemal</ad>
+<görev>muhasebe</görev>
+<ucret>3500</ucret>
+</isci>
+</isciler>

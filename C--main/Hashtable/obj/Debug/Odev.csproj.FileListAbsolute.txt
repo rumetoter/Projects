@@ -1,0 +1,11 @@
+E:\C# Visual Studio\Odev\bin\Debug\Odev.exe.config
+E:\C# Visual Studio\Odev\bin\Debug\Odev.exe
+E:\C# Visual Studio\Odev\bin\Debug\Odev.pdb
+E:\C# Visual Studio\Odev\obj\Debug\Odev.csproj.AssemblyReference.cache
+E:\C# Visual Studio\Odev\obj\Debug\Odev.csproj.SuggestedBindingRedirects.cache
+E:\C# Visual Studio\Odev\obj\Debug\Odev.Form1.resources
+E:\C# Visual Studio\Odev\obj\Debug\Odev.Properties.Resources.resources
+E:\C# Visual Studio\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+E:\C# Visual Studio\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\Odev\obj\Debug\Odev.exe
+E:\C# Visual Studio\Odev\obj\Debug\Odev.pdb

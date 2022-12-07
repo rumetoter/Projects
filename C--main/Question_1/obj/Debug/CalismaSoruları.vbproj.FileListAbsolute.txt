@@ -1,0 +1,11 @@
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\bin\Debug\CalismaSoruları.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\bin\Debug\CalismaSoruları.pdb
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\bin\Debug\CalismaSoruları.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.vbproj.AssemblyReference.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.Form1.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.Resources.resources
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.vbproj.GenerateResource.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.vbproj.CoreCompileInputs.cache
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.exe
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.xml
+E:\DEU 21-22 Bahar Dönemi\Görsel Programlama 3\Hafta 6\CalismaSoruları\obj\Debug\CalismaSoruları.pdb

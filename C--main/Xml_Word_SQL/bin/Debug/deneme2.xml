@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personeller>
+  <Personel TC="10000">
+    <Ad>Abdullah</Ad>
+    <Soyad>TEKİN</Soyad>
+  </Personel>
+  <Personel TC="10001">
+    <Ad>Anıl</Ad>
+    <Soyad>MARAL</Soyad>
+  </Personel>
+</personeller>
